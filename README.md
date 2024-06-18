@@ -47,48 +47,7 @@ The data is collected from the Jobs API, which provides information about job po
 ## Installation
 To run this project, you need to have Python installed along with the following libraries:
 
-pip install pandas requests openpyxl
-
-
-Sure, here’s an updated README for your GitHub profile, including the instructions on storing the results in an Excel file and creating a workbook:
-
-Collect Jobs Data using Jobs API
-Project Overview
-This project focuses on determining the number of job postings currently available for various technologies and locations using a Jobs API. The goal is to collect and analyze job market data to provide insights into job availability across different regions.
-
-Objective
-The main objective of this project is to determine the number of job openings for various technologies in the following locations:
-
-Los Angeles
-New York
-San Francisco
-Washington DC
-Seattle
-Austin
-Detroit
-Tools and Libraries
-Python: The primary programming language used for data collection and analysis.
-Pandas: Used for data manipulation and analysis.
-Requests: Used to make HTTP requests to the Jobs API.
-JSON: Used to parse the API response data.
-Openpyxl: Used to create and manipulate Excel files.
-Data Collection
-The data is collected from the Jobs API, which provides information about job postings.
-The keys in the JSON response include:
-
-- Job Title
-- Job Experience Required
-- Key Skills
-- Role Category
-- Location
-- Functional Area
-- Industry
-- Role
-  
-## Installation
-To run this project, you need to have Python installed along with the following libraries:
-
-pip install pandas requests openpyxl
+-  pip install pandas requests openpyxl
 ## Usage
 Step-by-Step Instructions
 1. Create a Python list of all locations for which you need to find the number of job postings:
