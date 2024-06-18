@@ -1,9 +1,5 @@
 # Api
 
-Certainly! Here’s a concise and informative README template for a project on collecting job data using APIs:
-
----
-
 # Collecting Job Data Using APIs
 
 ## Project Overview
