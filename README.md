@@ -27,10 +27,10 @@ The project utilizes job listing data from the following APIs:
 
   
 ## Tools and Libraries
-Python: The primary programming language used for data collection and analysis.
-Pandas: Used for data manipulation and analysis.
-Requests: Used to make HTTP requests to the Jobs API.
-JSON: Used to parse the API response data.
+-  Python: The primary programming language used for data collection and analysis.
+-  Pandas: Used for data manipulation and analysis.
+-  Requests: Used to make HTTP requests to the Jobs API.
+-  JSON: Used to parse the API response data.
   
 ## Data Collection
 The data is collected from the Jobs API, which provides information about job postings. The keys in the JSON response include:
